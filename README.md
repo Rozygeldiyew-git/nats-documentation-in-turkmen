@@ -1,7 +1,5 @@
 # nats-documentation-in-turkmen
 All documentation of NATS in Turkmen / Turkmenche NATS-yn ahli dokumentasiyalary
-# nats-documentation-in-turkmen
-All documentation of NATS in Turkmen / Turkmenche NATS-yn ahli dokumentasiyalary
 **Bellik:**  Bu dokumentasiyalar https://docs.nats.io/ shu salga esaslanyp terjime edildi.
 **Bellik:**  Bu dokumentasiya terjime edilende sozun owadanlygyna kan uns berilmedi, esasy manysyny dushundirmeklige uns berildi.
 # #1 https://docs.nats.io/nats-concepts/overview
